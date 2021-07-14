@@ -1,2 +1,4 @@
 name: Luka Martin is learning code
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
